@@ -31,6 +31,8 @@ Um im Rahmen der Versionsverwaltung Inhalte von einer Weboberfläche (hier: GitL
 
 - [Windows](https://git-scm.com/download/win)
 
+
+
 - wichtigste Befehle / Cheatsheet
 
 
@@ -45,5 +47,7 @@ von dort  "gezogen" (*pull*) welche über eine lokale Kopie (*clone*) bearbeitet
 - Repository klonen
 
 #### Aufbau der README-Datei
+
+- kurzer Einstieg in Markdown & Cheatsheet
 
 Jedes Repository 
