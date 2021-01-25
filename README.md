@@ -23,13 +23,13 @@ Dieser Leitfaden widmet sich dabei in erster Linie den folgenden Punkten:
 <a name="1. Erste Schritte in Git">1. Erste Schritte in Git</a>
 </h3>
 
-Um im Rahmen der Versionsverwaltung Inhalte von einer Weboberfläche (hier: GitLab) zu beziehen oder lokale Inhalte auf einer Weboberfläche zugänglich zu machen, muss an erster Stelle *Git* installiert werden. In den folgenden Links befinden sich eine (Installationsanleitung)[https://git-scm.com/book/de/v2/Erste-Schritte-Git-installieren] sowie die Installationsdateien für die Betriebssysteme
+Um im Rahmen der Versionsverwaltung Inhalte von einer Weboberfläche (hier: GitLab) zu beziehen oder lokale Inhalte auf einer Weboberfläche zugänglich zu machen, muss an erster Stelle *Git* installiert werden. In den folgenden Links befinden sich eine [Installationsanleitung] (https://git-scm.com/book/de/v2/Erste-Schritte-Git-installieren) sowie die Installationsdateien für die Betriebssysteme
 
-- (Linux/Unix)[http://git-scm.com/download/linux]
+- [Linux/Unix] (http://git-scm.com/download/linux)
 
-- (macOS)[http://git-scm.com/download/mac]
+- [macOS] (http://git-scm.com/download/mac)
 
-- (Windows)[https://git-scm.com/download/win]
+- [Windows] (https://git-scm.com/download/win)
 
 - wichtigste Befehle / Cheatsheet
 
