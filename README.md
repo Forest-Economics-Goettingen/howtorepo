@@ -15,13 +15,13 @@ Dieser Leitfaden widmet sich dabei in erster Linie den folgenden Punkten:
 <a href="#2. Erstellung eines Projektes in GitLab">1. Erstellung eines Projektes in GitLab</a>
 </li>
 <li>
-<a href="#2. Grundstruktur der README-Datei">2. Grundstruktur der README-Datei</a>
+<a href="#3. Grundstruktur der README-Datei">2. Grundstruktur der README-Datei</a>
 </li>
 </ul>
 
-
-
-#### 1. Erste Schritte in Git
+<h3>
+<a name="1. Erste Schritte in Git">1. Erste Schritte in Git</a>
+</h3>
 
 - Installation
 
