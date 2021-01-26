@@ -49,11 +49,11 @@ Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenbl�
 <a name="3. Grundstruktur der README-Datei">3. Grundstruktur der README-Datei</a>
 </h3>
 
-Die README-Datei eines Projektes In GitLab gibt eine kurze Übersicht über den Inhalt des Repositorys und ist üblicherweise in Markdown geschrieben, sodass der Inhalt der Datei direkt gerendert und im unteren Verlauf der Repository dargestellt werden kann. Markdown ist eine vereinfachte Auszeichnungssprache, die ohne weitere Konvertierung leicht lesbar ist. Markdown-Dateien können beispielsweise mit R-Studio oder direkt in GitLab über den "README" bzw. "Add README"-Button erstellt werden.
+Die README-Datei eines Projektes In GitLab gibt eine kurze Übersicht über den Inhalt des Repositorys und ist üblicherweise in Markdown geschrieben, sodass der Inhalt der Datei direkt gerendert und im unteren Verlauf der Repository dargestellt werden kann. Markdown ist eine vereinfachte Auszeichnungssprache, die ohne weitere Konvertierung leicht lesbar ist. Markdown-Dateien können beispielsweise mit R-Studio oder direkt in GitLab über den "<strong>README</strong>" bzw. "<strong>Add README</strong>"-Button erstellt werden.
 
 <img src="./images/repo_2.png" width="75%">
 
-Für zukünftige Archivierungsarbeiten soll die "README_blank.md" als Vorlage dienen, welche in diesem Repository zur Verfügung steht. Eine fertige README-Datei soll folgende Bestandteile aufweisen:
+Für zukünftige Archivierungsarbeiten soll die "<strong>README_blank.md</strong>" als Vorlage dienen, welche in diesem Repository zur Verfügung steht. Eine fertige README-Datei soll folgende Bestandteile aufweisen:
 
 - <strong>Überschrift:</strong> Name des Forschungsarbeit / Modellname und Namen der AutorInnen
 - <strong>Kurzbeschreibung:</strong> Erläuterung des Inhaltes; welche Inputs werden benötigt/genutzt, welchen Output gibt es, welchen Nutzen kann der Anwendende daraus ziehen?
@@ -65,5 +65,5 @@ Für zukünftige Archivierungsarbeiten soll die "README_blank.md" als Vorlage di
     + <strong>5. Hinweise zur Anwendung:</strong> Werden unübliche Einheiten genutzt? Müssen gewisse Restriktionen berücksichtigt werden (z.B. Extrapolationsbereiche)?
     + <strong>6. Beispielhafte Anwendung:</strong> Beispielaufgabe mit einer genauen Beschreibung über die einzelnen Anwendungsschritte (z.B. R-Packages die geladen werden, Import von Datensätzen, unterschiedliche Rechenschritte,...)
     + <strong>7. Literatur:</strong> Literatur, auf welche in der RAEDME verwiesen wird (z.B. Quellen für theoretische Hintergünde)
-    + <strong>8. Zitationshionweis</strong> Veröffentlichungen, welche bei Anwendung der Inhalte zitiert werden können 
+    + <strong>8. Zitationshinweis</strong> Veröffentlichungen, welche bei Anwendung der Inhalte zitiert werden können 
 
