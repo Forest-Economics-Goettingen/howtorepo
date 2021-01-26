@@ -63,19 +63,7 @@ Für zukünftige Archivierungsarbeiten soll die "README_blank.md" als Vorlage di
     + <strong>3. Aufbau des Modells:</strong> Welche Parameter oder Variablen werden als Input genutzt, welche Variablen stellen den Output dar? Bitte die genauen Variablennnamen verwenden, welche auch im Code verwendet werden.
     + <strong>4. Aufbau des Modells:</strong> Schematische Darstellung des Modells und seiner Bestandteile (optional) 
     + <strong>5. Hinweise zur Anwendung:</strong> Werden unübliche Einheiten genutzt? Müssen gewisse Restriktionen berücksichtigt werden (z.B. Extrapolationsbereiche)?
-    + <strong>6. Beispielhafte Anwendung:</strong> Beispielaufgabe mit einer genauen Beschreibung über die einzelnen Anwendungsschritte (Z.B. R-Packages die geladen werden, Import von Datensätzen, unterschiedliche Rechenschritte,...)
+    + <strong>6. Beispielhafte Anwendung:</strong> Beispielaufgabe mit einer genauen Beschreibung über die einzelnen Anwendungsschritte (z.B. R-Packages die geladen werden, Import von Datensätzen, unterschiedliche Rechenschritte,...)
     + <strong>7. Literatur:</strong> Literatur, auf welche in der RAEDME verwiesen wird (z.B. Quellen für theoretische Hintergünde)
     + <strong>8. Zitationshionweis</strong> Veröffentlichungen, welche bei Anwendung der Inhalte zitiert werden können 
 
-    
-#### Aufbau und Struktur des Repositorys
-
-- Installation von git
-- Repository erstellen
-- Repository klonen
-
-#### Aufbau der README-Datei
-
-- kurzer Einstieg in Markdown & Cheatsheet
-
-Jedes Repository 
