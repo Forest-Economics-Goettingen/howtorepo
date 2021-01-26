@@ -2,7 +2,7 @@
 Leitfaden zur Archivierung forstökonomischer Inhalte
 -------------------------------------------
 
-Dieses Verzeichnis (*Repository*) soll Studierenden, MitarbeiterInnen der Abteilungen Forstökonomie und Forstökonomie und nachhaltige Landnutzungsplanung sowie ForschungspartnerInnen einen Leitfaden für die Archivierung von Inhalten in GitLab geben.
+Dieses Verzeichnis ("Repository*") soll Studierenden, MitarbeiterInnen der Abteilungen Forstökonomie und Forstökonomie und nachhaltige Landnutzungsplanung sowie ForschungspartnerInnen einen Leitfaden für die Archivierung von Inhalten in GitLab geben.
 GitLab basiert auf dem Open-Source Versionskontrollsystem *Git*, welches für die Entwicklung und Bearbeitung von Projekten erstellt wurde. Neben der Versionsverwaltung von beispielsweise R-Skripten oder Dateien, bietet GitLab zusätzlich Management-, Bug-Tracking- sowie Wiki-Funktionalitäten an. Weiterhin lassen sich bei der Zusammenarbeit mit mehreren Personen Überprüfungen von Änderungen über sogenannte „Merge Requests“ durchführen. 
 
 Dieser Leitfaden widmet sich dabei in erster Linie den folgenden Punkten:
@@ -44,7 +44,7 @@ Die Software bietet auf Basis seiner verteilten Systemstruktur die Möglichkeit 
 
 <img src="./images/cheat_sheet.png" width="35%">
 
-
+Eine Bearbeitung von Textdateien (z.B. R-Code oder Markdown) eines Projektes kann allerdings auch direkt auf der Weboberfläche im jeweiligen Repository über den "Web IDE"-Button vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter. 
 
 
 #### Aufbau und Struktur des Repositorys
