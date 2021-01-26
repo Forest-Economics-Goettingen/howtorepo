@@ -44,7 +44,7 @@ Die Software bietet auf Basis seiner verteilten Systemstruktur die Möglichkeit 
 
 <img src="./images/cheat_sheet.png" width="35%">
 
-Eine Bearbeitung von Textdateien (z.B. R-Code oder Markdown) eines Projektes kann allerdings auch direkt auf der Weboberfläche im jeweiligen Repository über den ["Web IDE"-Button](https://gitlab.gwdg.de/-/ide/project/forest_economics_goettingen/howtorepo/edit/master/-/) vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter. 
+Eine Bearbeitung von Textdateien (z.B. R-Code oder Markdown) eines Projektes kann allerdings auch direkt auf der Weboberfläche im jeweiligen Repository über den ["Web IDE"](https://gitlab.gwdg.de/-/ide/project/forest_economics_goettingen/howtorepo/edit/master/-/)-Botton vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter. 
 
 
 #### Aufbau und Struktur des Repositorys
