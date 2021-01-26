@@ -35,7 +35,7 @@ Ist Git auf dem Rechner installiert, kann ein spezifisches Projekt aus GitLab al
 
 <img src="./images/cheat_sheet.png" width="35%">
 
-Eine Bearbeitung von Textdateien (z.B. R-Code oder Markdown) eines Projektes kann allerdings auch direkt auf der Weboberfläche im jeweiligen Repository über den "Web IDE"-Botton vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
+Eine Bearbeitung von Textdateien (z.B. R-Code oder Markdown) eines Projektes kann allerdings auch direkt auf der Weboberfläche im jeweiligen Repository über den "<strong>Web IDE</strong>"-Botton vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
 
 <img src="./images/repo_1.png" width="75%">
 
