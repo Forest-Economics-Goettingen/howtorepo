@@ -31,7 +31,7 @@ Um im Rahmen der Versionsverwaltung Inhalte von einer Weboberfläche (hier: GitL
 
 - [Windows](https://git-scm.com/download/win)
 
-Ist Git auf dem Rechner installiert, kann ein spezifisches Projekt aus GitLab als lokale Kopie (*clone*) gespeichert werden, um diese zu bearbeiten. Lokale Änderungen können im Anschluss wieder zentral hochgeladen (*push*) werden. Des Weiteren kann die lokale Kopie durch einen erneuten  (*pull*) von der Weboberfläche um mögliche Änderungen durch andere ergänzt und auf den "neusten Stand" gebracht werden.  
+Ist Git auf dem Rechner installiert, kann ein spezifisches Projekt aus GitLab als lokale Kopie (*clone*) gespeichert werden, um diese zu bearbeiten. Lokale Änderungen können im Anschluss wieder zentral aif GitLab hochgeladen (*push*) werden. Des Weiteren kann die lokale Kopie durch einen erneuten (*pull*) von der Weboberfläche um mögliche Änderungen durch andere ergänzt und auf den "neusten Stand" gebracht werden. 
 
 <h3>
 <a name="2. Erstellung eines Projektes in GitLab">1. Erste Schritte in Git</a>
