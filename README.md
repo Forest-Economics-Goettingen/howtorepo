@@ -42,7 +42,7 @@ Ist Git auf dem Rechner installiert, kann ein spezifisches Projekt aus GitLab al
 
 Die Software bietet auf Basis seiner verteilten Systemstruktur die Möglichkeit einer dezentralen Versionsverwaltung von Quellcode und Dateien, welcher beispielsweise von einer Weboberfläche (hier: GitLab) als lokale Kopie (*clone*) gespeichert werden. Lokale Änderungen können im Anschluss wieder zentral hochgeladen (*push*) werden. Des Weiteren kann die lokale Kopie durch einen erneuten  (*pull*) von der Weboberfläche um mögliche Änderungen durch andere aergänzt werden. Die folgende Abbildung stellt eine Übersicht der wichtigsten Git-Befehle dar.
 
-<img src="./images/cheat_sheet.png" width="60%">
+<img src="./images/cheat_sheet.png" width="35%">
 
 
 
