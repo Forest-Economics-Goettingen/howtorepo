@@ -53,7 +53,10 @@ Die README-Datei eines Projektes In GitLab gibt eine kurze Übersicht über den 
 
 <img src="./images/repo_2.png" width="75%">
 
+Für zukünftige Archivierungsarbeiten soll die "README_blank.md" als Vorlage dienen, welche in diesem Repository zur Verfügung steht. Eine fertige README-Datei soll folgende Bestandteile aufweisen:
 
+- <strong>Überschrift:</strong> Name des Forschungsarbeit / Modellname und Namen der AutorInnen
+- <strong>Kurzbeschreibung:</strong> Erläuterung des Inhaltes, welche Inputs werden benötigt/genutzt, welchen Output gibt es, welchen Nutzen kann der Anwendende daraus ziehen
 
 #### Aufbau und Struktur des Repositorys
 
