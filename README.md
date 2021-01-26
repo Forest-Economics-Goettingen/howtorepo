@@ -56,8 +56,18 @@ Die README-Datei eines Projektes In GitLab gibt eine kurze Übersicht über den 
 Für zukünftige Archivierungsarbeiten soll die "README_blank.md" als Vorlage dienen, welche in diesem Repository zur Verfügung steht. Eine fertige README-Datei soll folgende Bestandteile aufweisen:
 
 - <strong>Überschrift:</strong> Name des Forschungsarbeit / Modellname und Namen der AutorInnen
-- <strong>Kurzbeschreibung:</strong> Erläuterung des Inhaltes, welche Inputs werden benötigt/genutzt, welchen Output gibt es, welchen Nutzen kann der Anwendende daraus ziehen
+- <strong>Kurzbeschreibung:</strong> Erläuterung des Inhaltes; welche Inputs werden benötigt/genutzt, welchen Output gibt es, welchen Nutzen kann der Anwendende daraus ziehen?
+- <strong>Inhaltsverzeichnis:</strong> 
+    + <strong>1. Einleitung:</strong> Entstehung der Forschungsarbeit/ des Modells; geschichtlicher Hintergrund; warum wurde das Modell entwickelt?
+    + <strong>2. Grundlegende Theorie:</strong> Methodischer Hintergrund; welche Formeln oder Ansätze wurden genutzt?
+    + <strong>3. Aufbau des Modells:</strong> Welche Parameter oder Variablen werden als Input genutzt, welche Variablen stellen den Output dar? Bitte die genauen Variablennnamen verwenden, welche auch im Code verwendet werden.
+    + <strong>4. Aufbau des Modells:</strong> Schematische Darstellung des Modells und seiner Bestandteile (optional) 
+    + <strong>5. Hinweise zur Anwendung:</strong> Werden unübliche Einheiten genutzt? Müssen gewisse Restriktionen berücksichtigt werden (z.B. Extrapolationsbereiche)?
+    + <strong>6. Beispielhafte Anwendung:</strong> Beispielaufgabe mit einer genauen Beschreibung über die einzelnen Anwendungsschritte (Z.B. R-Packages die geladen werden, Import von Datensätzen, unterschiedliche Rechenschritte,...)
+    + <strong>7. Literatur:</strong> Literatur, auf welche in der RAEDME verwiesen wird (z.B. Quellen für theoretische Hintergünde)
+    + <strong>8. Zitationshionweis</strong> Veröffentlichungen, welche bei Anwendung der Inhalte zitiert werden können 
 
+    
 #### Aufbau und Struktur des Repositorys
 
 - Installation von git
