@@ -35,11 +35,23 @@ Ist Git auf dem Rechner installiert, kann ein spezifisches Projekt aus GitLab al
 
 <img src="./images/cheat_sheet.png" width="35%">
 
-Eine Bearbeitung von Textdateien (z.B. R-Code oder Markdown) eines Projektes kann allerdings auch direkt auf der Weboberfläche im jeweiligen Repository über den ["Web IDE"](https://gitlab.gwdg.de/-/ide/project/forest_economics_goettingen/howtorepo/edit/master/-/)-Botton vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
+Eine Bearbeitung von Textdateien (z.B. R-Code oder Markdown) eines Projektes kann allerdings auch direkt auf der Weboberfläche im jeweiligen Repository über den "Web IDE"-Botton vorgenommen werden. 
+
+<img src="./images/repo_1.png" width="35%">
+
+Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
 
 <h3>
-<a name="2. Erstellung eines Projektes in GitLab">1. Erste Schritte in Git</a>
+<a name="2. Erstellung eines Projektes in GitLab">2. Erstellung eines Projektes in GitLab</a>
 </h3>
+
+<h3>
+<a name="3. Grundstruktur der README-Datei">3. Grundstruktur der README-Datei</a>
+</h3>
+
+Die README-Datei eines Projektes In GitLab gibt eine kurze Übersicht über den Inhalt des Repositorys und ist üblicherweise in Markdown geschrieben, sodass der Inhalt der Datei direkt gerendert und im unteren Verlauf der Repository dargestellt werden kann. Markdown ist eine vereinfachte Auszeichnungssprache, die ohne weitere Konvertierung leicht lesbar ist. Markdown-Dateien können beispielsweise mit R-Studio oder direkt in GitLab über den "README" bzw. "Add README"-Button erstellt werden.
+
+<img src="./images/repo_2.png" width="35%">
 
 
 
