@@ -39,7 +39,10 @@ Ist Git auf dem Rechner installiert, kann ein spezifisches Projekt aus GitLab al
 <a name="2. Erstellung eines Projektes in GitLab">2. Erstellung eines Projektes in GitLab</a>
 </h3>
 
-Zur Erstellung eines neuen Projektes kann der in der <strong>+</strong>
+Zur Erstellung eines neuen Projektes in GitLab wird in der folgenden Animation dargestellt.
+
+<img src="./images/new_project.gif" width="70%">
+
 
 
 
