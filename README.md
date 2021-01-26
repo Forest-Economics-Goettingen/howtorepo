@@ -41,7 +41,7 @@ Ist Git auf dem Rechner installiert, kann ein spezifisches Projekt aus GitLab al
 
 Zur Erstellung eines neuen Projektes in GitLab wird in der folgenden Animation dargestellt.
 
-<img src="./images/new_project.gif" width="70%">
+<img src="./images/new_project.gif" width="80%">
 
 
 
