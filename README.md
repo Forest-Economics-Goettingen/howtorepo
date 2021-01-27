@@ -39,24 +39,16 @@ Ist Git auf dem Rechner installiert, kann ein spezifisches Projekt aus GitLab al
 <a name="2. Erstellung eines Projektes in GitLab">2. Erstellung eines Projektes in GitLab</a>
 </h3>
 
-Zur Erstellung eines neuen Projektes in GitLab wird in der folgenden Animation dargestellt.
+Die Erstellung eines neuen Projektes in GitLab wird in der folgenden Animation dargestellt.
 
 <img src="./images/new_project.gif" width="120%">
 
+Bei der Benennung des Projektnamen ist darauf zu achten, alphanumerische Zeichen (a-z, A-Z, 0-9) sowie einen Unterstrich (_) als Sondferzeichen zu verwenden. Umlaute sowie Leerzeichen sollten vermieden werden.  
 
-
-
-Der Upload sowie die Bearbeitung von Inhalten in einem bereits bestehenden Projekt kann auch direkt im jeweiligen Repository vorgenommen werden. 
-
-
-
-
-
-
-
-Ein Bearbeitung von Textdateien (z.B. R-Code oder Markdown) eines Projektes kann allerdings auch direkt auf der Weboberfläche im jeweiligen Repository über den "<strong>Web IDE</strong>"-Botton vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
+Anch der Initialisierung eines Projektes kann der Upload sowie die Bearbeitung von Textdateien (z.B. R-Code oder Markdown) auch direkt auf der Weboberfläche im jeweiligen Repository über den "<strong>Web IDE</strong>"-Botton vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
 
 <img src="./images/repo_1.png" width="75%">
+
 <h3>
 <a name="3. Grundstruktur der README-Datei">3. Grundstruktur der README-Datei</a>
 </h3>
