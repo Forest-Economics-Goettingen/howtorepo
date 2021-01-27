@@ -15,7 +15,10 @@ Dieser Leitfaden widmet sich neben der Erläuterung der Basisfunktionalitäten w
 <a href="#2. Erstellung eines Projektes in GitLab">2. Erstellung eines Projektes in GitLab</a>
 </li>
 <li>
-<a href="#3. Grundstruktur der README-Datei">2. Grundstruktur der README-Datei</a>
+<a href="#3. Upload und Bearbeitung von Inhalten">3. Upload und Bearbeitung von Inhalten</a>
+</li>
+<li>
+<a href="#4. Grundstruktur der README-Datei">2. Grundstruktur der README-Datei</a>
 </li>
 </ul>
 
@@ -45,12 +48,17 @@ Die Erstellung eines neuen Projektes in GitLab wird in der folgenden Animation d
 
 Bei der Benennung des Projektnamen ist darauf zu achten, alphanumerische Zeichen (a-z, A-Z, 0-9) sowie einen Unterstrich (_) als Sondferzeichen zu verwenden. Umlaute sowie Leerzeichen sollten vermieden werden.  
 
-Anch der Initialisierung eines Projektes kann der Upload sowie die Bearbeitung von Textdateien (z.B. R-Code oder Markdown) auch direkt auf der Weboberfläche im jeweiligen Repository über den "<strong>Web IDE</strong>"-Botton vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
 
 <img src="./images/repo_1.png" width="75%">
 
+<li>
+<a href="#3. Upload und Bearbeitung von Inhalten">3. Upload und Bearbeitung von Inhalten</a>
+</li>
+
+Anch der Initialisierung eines Projektes kann der Upload sowie die Bearbeitung von Textdateien (z.B. R-Code oder Markdown) auch direkt auf der Weboberfläche im jeweiligen Repository über den "<strong>Web IDE</strong>"-Botton vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
+
 <h3>
-<a name="3. Grundstruktur der README-Datei">3. Grundstruktur der README-Datei</a>
+<a name="4. Grundstruktur der README-Datei">4. Grundstruktur der README-Datei</a>
 </h3>
 
 Die README-Datei eines Projektes In GitLab gibt eine kurze Übersicht über den Inhalt des Repositorys und ist üblicherweise in Markdown geschrieben, sodass der Inhalt der Datei direkt gerendert und im unteren Verlauf der Repository dargestellt werden kann. Markdown ist eine vereinfachte Auszeichnungssprache, die ohne weitere Konvertierung leicht lesbar ist. Markdown-Dateien können beispielsweise mit R-Studio oder direkt in GitLab über den "<strong>README</strong>" bzw. "<strong>Add README</strong>"-Button erstellt werden.
