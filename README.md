@@ -49,13 +49,13 @@ Die Erstellung eines neuen Projektes in GitLab wird in der folgenden Animation d
 Bei der Benennung des Projektnamen ist darauf zu achten, alphanumerische Zeichen (a-z, A-Z, 0-9) sowie einen Unterstrich (_) als Sondferzeichen zu verwenden. Umlaute sowie Leerzeichen sollten vermieden werden.  
 
 
-<img src="./images/repo_1.png" width="75%">
-
-<li>
+<h3>
 <a href="#3. Upload und Bearbeitung von Inhalten">3. Upload und Bearbeitung von Inhalten</a>
-</li>
+</h3>
 
 Anch der Initialisierung eines Projektes kann der Upload sowie die Bearbeitung von Textdateien (z.B. R-Code oder Markdown) auch direkt auf der Weboberfläche im jeweiligen Repository über den "<strong>Web IDE</strong>"-Botton vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
+
+<img src="./images/repo_1.png" width="75%">
 
 <h3>
 <a name="4. Grundstruktur der README-Datei">4. Grundstruktur der README-Datei</a>
