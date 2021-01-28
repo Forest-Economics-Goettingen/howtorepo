@@ -96,19 +96,14 @@ hier einfügen: Beispielshafte Anwendung.
  Zur Integration von Code-Blöcken werden diese durch drei sich wiederholende Garvis-Zeichen (```) in einer separaten Zeile begonnen und durch diese ebenso in einer separaten Zeile wieder beendet. 
 
 ```r
-
 install.package("xy")
 library("xy")
-
 ```
 
 Zwischen den Code-Blöcken sollen die einzelnen Rechenschritte genau beschrieben werden (hier: x wird der Wert 100 zugewiesen)
 
 ```r
-
 x <- 100
-
-
 ```
 
 <h3>
