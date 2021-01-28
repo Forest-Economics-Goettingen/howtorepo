@@ -53,7 +53,7 @@ Bei der Benennung des Projektnamen ist darauf zu achten, alphanumerische Zeichen
 <a href="#3. Upload und Bearbeitung von Inhalten">3. Upload und Bearbeitung von Inhalten</a>
 </h3>
 
-Nach der Initialisierung des Repositorys kann dieses als neues Verzeichnis auf den eigenen Rechner kopiert werden, um darüber den Upload der gewünschten Inhalte zu ermöglichen. Über die Konsole des jeweiligen Betriebssystems wird zu diesem Zweck der Befehl
+Nach der Initialisierung des Repositorys kann dieses als neues Verzeichnis auf den eigenen Rechner erstellt werden, um darüber den Upload der gewünschten Inhalte zu ermöglichen. Über die Konsole des jeweiligen Betriebssystems wird zu diesem Zweck der Befehl
 
 ```
 git clone https://gitlab.gwdg.de/forest_economics_goettingen/howtorepo.git
@@ -64,8 +64,12 @@ Um die Änderungen in deinem lokalen Arbeitsverzeichnis (*working directory*) in
 
 <img src="./images/workflow.PNG" width="60%">
 
+In einem ersten Schritt werden die Dateien in einen Index (*staging area*) überführt. Hier kann noch einmal darüber darüber entschieden werden, welche Änderungen tatsächlich vorgenommen und welche vielleicht doch noch verworfen werden sollen. Mit dem Befehle 
 
-Um den Status des Upload-Prozesses einmal zu überprüfen führen wir den Befehl
+```
+git add *
+```
+werden alle Änderungen im Verzeichnis zum Index hinzugefügt. Um den Status des Workflows zu überprüfen, führen wir den Befehl 
 
 ```
 git status
@@ -77,17 +81,28 @@ On branch master
 
 No commits yet
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-        howtorepo_code_20200128.R
-        images/
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   howtorepo_code_20200128.R
+        new file:   images/repo.PNG
+
+
 ```
-Wir erhalten die Informationen, dass im Hauptentwicklungspfad (*branch master*) keine Änderungen vorgemerkt sind (*No commits yet*)  
+Wir erhalten die Informationen, dass im Hauptentwicklungspfad (*branch master*) keine Änderungen vorgemerkt sind (*No commits yet*), jedoch Änderungen durch zwei neue Dateien entstanden sind, welche zum einen ein R-Skript (howtorepo_code_20200128.R) und zum anderen ein Foto ("repo.PNG") im Ordner "images" sind.   
 
+In einer zweiten Instanz werden diese Änderungen bestätigt. Zusätzlich werden die Änderungen mit einer Nachricht versehen, welche über den Inhalt der Änderung eine Auskunft geben soll. 
 
+```
+git commit -m "Add images for README & R-Code"
 
+```
+Zuletzt müssen die Änderungen unter Verwendung des Befehls 
 
-über den "<strong>Web IDE</strong>"-Botton vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
+```
+git push origin master
+
+```
+Auf diese Weise werden die Änderungen an das entfernte Repository in GitLab gesendet und im Hauptentwicklungspfad eingefügt. Ist der Upload erfolgt, können Änderungen in Textdateinen (z.B. R-Skripte oder Markdown) auch direkt in GitLab über den "<strong>Web IDE</strong>"-Botton vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
 
 <img src="./images/repo_1.png" width="75%">
 
