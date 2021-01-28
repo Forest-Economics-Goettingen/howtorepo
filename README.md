@@ -112,7 +112,7 @@ git push origin master
 <a name="4. Grundstruktur der README-Datei">4. Grundstruktur der README-Datei</a>
 </h3>
 
-Die README-Datei eines Projektes In GitLab gibt eine kurze Übersicht über den Inhalt des Repositorys und ist üblicherweise in Markdown geschrieben, sodass der Inhalt der Datei direkt gerendert und im unteren Verlauf der Repository dargestellt werden kann. Markdown ist eine vereinfachte Auszeichnungssprache, die ohne weitere Konvertierung leicht lesbar ist. Markdown-Dateien können beispielsweise mit R-Studio oder direkt in GitLab über den "<strong>README</strong>" bzw. "<strong>Add README</strong>"-Button erstellt werden. GitLab bietet eine ausführliche [Anleitung](https://about.gitlab.com/handbook/markdown-guide/) für den Umgang mit der Synthax von Markdown. 
+Die README-Datei eines Projektes In GitLab gibt eine kurze Übersicht über den Inhalt des Repositorys und ist üblicherweise in Markdown geschrieben, sodass der Inhalt der Datei direkt gerendert und im unteren Verlauf der Repository dargestellt werden kann. Markdown ist eine vereinfachte Auszeichnungssprache, die ohne weitere Konvertierung leicht lesbar ist. GitLab bietet eine ausführliche [Anleitung](https://about.gitlab.com/handbook/markdown-guide/) für den Umgang mit der Synthax von Markdown. Markdown-Dateien können beispielsweise mit R-Studio oder direkt in GitLab über den "<strong>README</strong>" bzw. "<strong>Add README</strong>"-Button erstellt werden. 
 
 <img src="./images/repo_2.png" width="75%">
 
