@@ -114,7 +114,7 @@ hioer einfügen: Literaturangaben.
 
 Die Quellen sind in alphabetischer Reihenfolge aufzuführen. Das Format der Quellenangaben soll dem folgenden Beispiel entsprechen:
 
-<strong> SCHOBER, R. (1995): </strong> Ertragstafeln wichtiger Baumarten bei verschiedener Durchforstung, 4th ed. SauerlÃ¤nder, Frankfurt am Main.
+<strong> SCHOBER, R. (1995): </strong> Ertragstafeln wichtiger Baumarten bei verschiedener Durchforstung, 4th ed. Sauerländer, Frankfurt am Main.
 
 <h3>
 <a name="8. Zitationshinweis">8. Zitationshinweis</a>
