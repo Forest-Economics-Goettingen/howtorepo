@@ -54,23 +54,25 @@ hier einfügen: Grundlegende Theorie
 Als **Input** fließen in das Modell mit ein:
 
 hier einfügen: Input des Modells als Liste
+Für die Input- wie auch die Outputvariablen gilt: Beschreibung der Variablen; Angabe der Einheit; Variablenbezeichnung im Datensatz in Klammern mit Gravis-Zeichen (`) am Anfang und Ende des Variablennamens
 
-- Input 1
-- Input 2
+- beobachtete Inputvariable 1 [in cm] (`bhd`) 
+- beobachtete Inputvariable 2 [in Jahre] (`age`)
 - ...
 
 Aus dem Modell ergibt sich als **Outputgröße**:
 
 hier einfügen: Output des Modells als Liste
 
-- Output 1
+- geschätzte Outputvariable 1 [Euro/ha] (`contribution.margin`)
 - ...
 
 <h3>
 <a name="4. Aufbau des Modells">4. Aufbau des Modells</a>
 </h3>
 
-hier einfügen: Abbildung zum Aufbau des Modells (optional). Abbildungen können in Markdown beispielsweise wie folgt eigefügt werden:
+hier einfügen: Abbildung zum Aufbau des Modells (optional).
+Abbildungen können in Markdown beispielsweise wie folgt eigefügt werden:
 
 ```
 <img src="./images/aufbau_modell.png" width="90%">
