@@ -48,7 +48,7 @@ Die Erstellung eines neuen Projektes über die Weboberfläche in GitLab wird in 
 
 <img src="./images/new_project.gif" width="120%">
 
-Bei der Benennung des Projektnamen ist darauf zu achten, alphanumerische Zeichen (a-z, A-Z, 0-9) sowie  als Sondferzeichen einen Unterstrich(_) zu verwenden. Umlaute sowie Leerzeichen sollten vermieden werden.  
+Bei der Vergabe des Projektnamens ist darauf zu achten, alphanumerische Zeichen (a-z, A-Z, 0-9) sowie  als Sondferzeichen einen Unterstrich(_) zu verwenden. Umlaute sowie Leerzeichen sollten vermieden werden.  
 
 
 <h3>
