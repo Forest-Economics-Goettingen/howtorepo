@@ -106,7 +106,7 @@ Zuletzt müssen die Änderungen unter Verwendung des Befehls
 git push origin master
 
 ```
-Auf diese Weise werden die Änderungen an das entfernte Repository in GitLab gesendet und im Hauptentwicklungspfad eingefügt. Ist der Upload erfolgt, können Änderungen in Textdateinen (z.B. R-Skripte oder Markdown) auch direkt in GitLab über den "<strong>Web IDE</strong>"-Botton vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
+Auf diese Weise werden die Änderungen an das entfernte Repository in GitLab gesendet und im Hauptentwicklungspfad eingefügt. Ist der Upload erfolgt, können Änderungen in Textdateinen (z.B. R-Skripte oder Markdown) auch direkt in GitLab über den "<strong>Web IDE</strong>"-Button vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
 
 <img src="./images/repo_1.png" width="75%">
 
