@@ -38,6 +38,8 @@ Ist *Git* auf dem Rechner installiert, kann ein spezifisches Projekt aus GitLab 
 
 <img src="./images/cheat_sheet.png" width="60%">
 
+*Quelle: https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf*
+
 <h3>
 <a name="2. Erstellung eines Projektes in GitLab">2. Erstellung eines Projektes in GitLab</a>
 </h3>
@@ -64,7 +66,7 @@ Um die Änderungen in einem lokalen Arbeitsverzeichnis (*working directory*) in 
 
 <img src="./images/workflow.PNG" width="60%">
 
-*Quelle:https://rogerdudler.github.io/git-guide/index.de.html*
+*Quelle: https://rogerdudler.github.io/git-guide/index.de.html*
 
 In einem ersten Schritt werden die Dateien in einen Index (*staging area*) überführt. Hier kann noch einmal darüber darüber entschieden werden, welche Änderungen tatsächlich vorgenommen und welche vielleicht doch noch verworfen werden sollen. Mit dem Befehle 
 
