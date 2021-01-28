@@ -42,7 +42,7 @@ Ist Git auf dem Rechner installiert, kann ein spezifisches Projekt aus GitLab al
 <a name="2. Erstellung eines Projektes in GitLab">2. Erstellung eines Projektes in GitLab</a>
 </h3>
 
-Die Erstellung eines neuen Projektes in GitLab wird in der folgenden Animation dargestellt.
+Die Erstellung eines neuen Projektes über die Weboberfläche in GitLab wird in der folgenden Animation dargestellt. 
 
 <img src="./images/new_project.gif" width="120%">
 
@@ -53,7 +53,20 @@ Bei der Benennung des Projektnamen ist darauf zu achten, alphanumerische Zeichen
 <a href="#3. Upload und Bearbeitung von Inhalten">3. Upload und Bearbeitung von Inhalten</a>
 </h3>
 
-Anch der Initialisierung eines Projektes kann der Upload sowie die Bearbeitung von Textdateien (z.B. R-Code oder Markdown) auch direkt auf der Weboberfläche im jeweiligen Repository über den "<strong>Web IDE</strong>"-Botton vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
+Nach der Initialisierung des Repositorys dieses als neus Verzeichnis auf dem eigenen Rechner erstellt werden, um darüber den Upload der gewünschten Inhalte zu ermöglichen. Über die Konsole des jeweiligen Betriebssystems wird zu diesem Zweck der Befehl
+
+```
+>git clone https://gitlab.gwdg.de/forest_economics_goettingen/howtorepo.git
+```
+
+
+Nach der Initialisierung eines Projektes kann der Upload sowie die Bearbeitung von Textdateien (z.B. R-Code oder Markdown) direkt auf der Weboberfläche im jeweiligen Repository vorgenommen werden. 
+
+
+
+
+
+über den "<strong>Web IDE</strong>"-Botton vorgenommen werden. Nicht möglich ist dies für Binärdateien, wie beispielsweise Excel-Tabellenblätter.
 
 <img src="./images/repo_1.png" width="75%">
 
