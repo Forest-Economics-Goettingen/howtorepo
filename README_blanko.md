@@ -53,7 +53,8 @@ hier einfügen: Grundlegende Theorie
 
 Als **Input** fließen in das Modell mit ein:
 
-hier einfügen: Input des Modells als Liste
+hier einfügen: Input des Modells als Liste.
+
 Für die Input- wie auch die Outputvariablen gilt: Beschreibung der Variablen; Angabe der Einheit; Variablenbezeichnung im Datensatz in Klammern mit Gravis-Zeichen (`) am Anfang und Ende des Variablennamens
 
 - beobachtete Inputvariable 1 [in cm] (`bhd`) 
@@ -72,6 +73,7 @@ hier einfügen: Output des Modells als Liste
 </h3>
 
 hier einfügen: Abbildung zum Aufbau des Modells (optional).
+
 Abbildungen können in Markdown beispielsweise wie folgt eigefügt werden:
 
 ```
@@ -89,7 +91,9 @@ hier einfügen: Hinweise zur Anwendung
 <a name="6. Beispielhafte Anwendung">6. Beispielhafte Anwendung</a>
 </h3>
 
-hier einfügen: Beispielshafte Anwendung. Zur Integration von Code-Blöcken werden diese durch drei sich wiederholende Garvis-Zeichen (```) in einer separaten Zeile begonnen und durch diese ebenso in einer separaten Zeile wieder beendet. 
+hier einfügen: Beispielshafte Anwendung.
+
+ Zur Integration von Code-Blöcken werden diese durch drei sich wiederholende Garvis-Zeichen (```) in einer separaten Zeile begonnen und durch diese ebenso in einer separaten Zeile wieder beendet. 
 
 ```r
 
@@ -111,7 +115,9 @@ x <- 100
 <a name="7. Literatur">7. Literatur</a>
 </h3>
 
-hioer einfügen: Literaturangaben. Die Quellen sind in alphabetischer Reihenfolge aufzuführen. Das Format der Quellenangaben soll dem folgenden Beispiel entsprechen:
+hioer einfügen: Literaturangaben. 
+
+Die Quellen sind in alphabetischer Reihenfolge aufzuführen. Das Format der Quellenangaben soll dem folgenden Beispiel entsprechen:
 
 <strong> SCHOBER, R. (1995): </strong> Ertragstafeln wichtiger Baumarten bei verschiedener Durchforstung, 4th ed. SauerlÃ¤nder, Frankfurt am Main.
 
@@ -119,8 +125,10 @@ hioer einfügen: Literaturangaben. Die Quellen sind in alphabetischer Reihenfolg
 <a name="8. Zitationshinweis">8. Zitationshinweis</a>
 </h3>
 
-hier einfügen: Zitationshinweis. Für den Zitationshinweis gelten die gleichen Formatvorgaben wie für die Quellenangaben.
+hier einfügen: Zitationshinweis. 
+
+Für den Zitationshinweis gelten die gleichen Formatvorgaben wie für die Quellenangaben.
 
 <p>
-<a href="#menu">zurÃ¼ck zum Inhaltsverzeichnis</a>
+<a href="#menu">zurück zum Inhaltsverzeichnis</a>
 </p>
