@@ -118,7 +118,7 @@ Die README-Datei eines Projektes In GitLab gibt eine kurze Übersicht über den 
 
 <img src="./images/repo_2.png" width="75%">
 
-GitLab bietet eine ausführliche [Anleitung] (https://about.gitlab.com/handbook/markdown-guide/) über den Umgang mit der Synthax von Markdown an, zudem sollen an dieser Stelle einige 
+GitLab bietet eine ausführliche [Anleitung](https://about.gitlab.com/handbook/markdown-guide/) über den Umgang mit der Synthax von Markdown an, zudem sollen an dieser Stelle einige 
 
 Für zukünftige Archivierungsarbeiten soll die "<strong>README_blank.md</strong>" als Vorlage dienen, welche in diesem Repository zur Verfügung steht. Eine fertige README-Datei soll folgende Bestandteile aufweisen:
 
