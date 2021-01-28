@@ -1,4 +1,4 @@
-hier einfügen: Name des Modells
+hier einfügen: Name des Modells/Projektes und der AutorInnen
 -------------------------------------------
 
 #### Kurzbeschreibung des Modells
