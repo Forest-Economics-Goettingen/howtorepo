@@ -62,7 +62,7 @@ ausgeführt. Die jeweilige URL kann über den blauen <strong>*Clone*</strong>-Bu
 
 Um die Änderungen in deinem lokalen Arbeitsverzeichnis (*working directory*) in GitLab zu speichern, müssen zwei "Instanzen" überwunden werden. 
 
-<img src="./images/workflow.PNG" width="50%">
+<img src="./images/workflow.PNG" width="75%">
 
 
 Um den Status des Upload-Prozesses einmal zu überprüfen führen wir den Befehl
