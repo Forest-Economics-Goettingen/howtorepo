@@ -51,9 +51,9 @@ hier einfügen: Grundlegende Theorie
 <a name="3. Input und Output">3. Input und Output</a>
 </h3>
 
-Als **Input** fließen in das Modell mit ein:
-
 hier einfügen: Input des Modells als Liste.
+
+Als **Input** fließen in das Modell mit ein:
 
 Für die Input- wie auch die Outputvariablen gilt: Beschreibung der Variablen; Angabe der Einheit; Variablenbezeichnung im Datensatz in Klammern mit Gravis-Zeichen (`) am Anfang und Ende des Variablennamens
 
