@@ -116,9 +116,10 @@ Die README-Datei eines Projektes In GitLab gibt eine kurze Übersicht über den 
 
 <img src="./images/repo_2.png" width="75%">
 
-GitLab bietet eine ausführliche [Anleitung](https://about.gitlab.com/handbook/markdown-guide/) über den Umgang mit der Synthax von Markdown, darüber hinaus sollen an dieser Stelle auf einige Beispiele eingegangen werden, welche bei der Anfertigung der README-Datei von Nutzen sein können.
+GitLab bietet eine ausführliche [Anleitung](https://about.gitlab.com/handbook/markdown-guide/) über den Umgang mit der "klassischen" Synthax von Markdown. An dieser Stelle sollen zusätzlich einige Beispiele erläutert werden, die sich der Auszeichnungssprache HTML bedienen, jedoch für die Anfertigung der README-Datei von Nutzen sein können.  
 
-### Überschriften ###
+´´´
+<strong> 
 
 Überschriften 
 
