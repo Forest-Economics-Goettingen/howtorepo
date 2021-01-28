@@ -118,7 +118,7 @@ Die README-Datei eines Projektes In GitLab gibt eine kurze Übersicht über den 
 
 GitLab bietet eine ausführliche [Anleitung](https://about.gitlab.com/handbook/markdown-guide/) über den Umgang mit der "klassischen" Synthax von Markdown. 
 
-Für zukünftige Archivierungsarbeiten soll die "<strong>README_blank.md</strong>" als Vorlage dienen, welche in diesem Repository zur Verfügung steht. Eine fertige README-Datei soll folgende Bestandteile aufweisen:
+Für zukünftige Archivierungsarbeiten soll die ["<strong>README_blanko.md</strong>"](https://gitlab.gwdg.de/forest_economics_goettingen/howtorepo/-/blob/master/README_blanko.md) als Vorlage dienen, welche in diesem Repository zur Verfügung steht. Eine fertige README-Datei soll folgende Bestandteile aufweisen:
 
 - <strong>Überschrift:</strong> Name des Forschungsarbeit / Modellname und Namen der AutorInnen
 - <strong>Kurzbeschreibung:</strong> Erläuterung des Inhaltes; welche Inputs werden benötigt/genutzt, welchen Output gibt es, welchen Nutzen kann der Anwendende daraus ziehen?
