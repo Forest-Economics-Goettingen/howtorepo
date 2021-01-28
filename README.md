@@ -55,7 +55,7 @@ Bei der Vergabe des Projektnamens ist darauf zu achten alphanumerische Zeichen (
 <a href="#3. Upload und Bearbeitung von Inhalten">3. Upload und Bearbeitung von Inhalten</a>
 </h3>
 
-Nach der Initialisierung des Repositorys kann dieses als neues Verzeichnis auf den eigenen Rechner erstellt werden, um darüber den Upload der gewünschten Inhalte zu ermöglichen. Über die Konsole des jeweiligen Betriebssystems wird zu diesem Zweck der Befehl
+Nach der Initialisierung des Repositorys kann dieses als neues Verzeichnis auf dem eigenen Rechner erstellt werden, um in diesem den Upload der gewünschten Inhalte zu ermöglichen. Über die Konsole des jeweiligen Betriebssystems wird zu diesem Zweck der Befehl
 
 ```
 git clone https://gitlab.gwdg.de/forest_economics_goettingen/howtorepo.git
