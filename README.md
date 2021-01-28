@@ -36,7 +36,7 @@ Um im Rahmen der Versionsverwaltung Inhalte von einer Weboberfläche (hier: GitL
 
 Ist *Git* auf dem Rechner installiert, kann ein spezifisches Projekt aus GitLab als lokale Kopie (*clone*) gespeichert werden, um dieses zu bearbeiten. Lokale Änderungen können im Anschluss wieder zentral auf GitLab hochgeladen (*push*) werden. Des Weiteren kann die lokale Kopie durch einen (*pull*) von der Weboberfläche um mögliche Änderungen durch andere ergänzt und auf den "neusten Stand" gebracht werden. Die folgende Abbildung stellt eine kurze Übersicht der wichtigsten Git-Befehle dar.
 
-<img src="./images/cheat_sheet.png" width="35%">
+<img src="./images/cheat_sheet.png" width="60%">
 
 <h3>
 <a name="2. Erstellung eines Projektes in GitLab">2. Erstellung eines Projektes in GitLab</a>
@@ -63,6 +63,8 @@ ausgeführt. Die jeweilige URL kann über den blauen <strong>Clone</strong>-Butt
 Um die Änderungen in einem lokalen Arbeitsverzeichnis (*working directory*) in GitLab zu speichern, müssen zwei "Instanzen" überwunden werden. 
 
 <img src="./images/workflow.PNG" width="60%">
+
+*Quelle:https://rogerdudler.github.io/git-guide/index.de.html*
 
 In einem ersten Schritt werden die Dateien in einen Index (*staging area*) überführt. Hier kann noch einmal darüber darüber entschieden werden, welche Änderungen tatsächlich vorgenommen und welche vielleicht doch noch verworfen werden sollen. Mit dem Befehle 
 
