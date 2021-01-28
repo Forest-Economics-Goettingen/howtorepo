@@ -127,6 +127,6 @@ Für zukünftige Archivierungsarbeiten soll die ["<strong>README_blanko.md</stro
     + <strong>4. Aufbau des Modells:</strong> Schematische Darstellung des Modells und seiner Bestandteile (optional) 
     + <strong>5. Hinweise zur Anwendung:</strong> Werden unübliche Einheiten genutzt? Müssen gewisse Restriktionen berücksichtigt werden (z.B. Extrapolationsbereiche)?
     + <strong>6. Beispielhafte Anwendung:</strong> Beispielaufgabe mit einer genauen Beschreibung über die einzelnen Anwendungsschritte (z.B. R-Packages die geladen werden, Import von Datensätzen, unterschiedliche Rechenschritte,...)
-    + <strong>7. Literatur:</strong> Literatur, auf welche in der RAEDME verwiesen wird (z.B. Quellen für theoretische Hintergünde)
+    + <strong>7. Literatur:</strong> Literatur, auf welche in der README verwiesen wird (z.B. Quellen für theoretische Hintergünde)
     + <strong>8. Zitationshinweis</strong> Veröffentlichungen, welche bei Anwendung der Inhalte zitiert werden können 
 
