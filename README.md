@@ -92,7 +92,7 @@ Changes to be committed:
 
 
 ```
-Diese Antwort git eine Auskunft darüber, dass im Hauptentwicklungspfad (*branch master*) noch keine Änderungen für den Upload vorgemerkt sind (*No commits yet*), jedoch Änderungen im Index durch zwei neue Dateien entstanden sind, welche zum einen ein R-Skript (*howtorepo_code_20200128.R*) und zum anderen ein Foto (*repo.PNG*) im Ordner "*images*" sind.   
+Diese Antwort gibt eine Auskunft darüber, dass im Hauptentwicklungspfad (*branch master*) noch keine Änderungen für den Upload vorgemerkt sind (*No commits yet*), jedoch Änderungen im Index durch zwei neue Dateien entstanden sind, welche zum einen ein R-Skript (*howtorepo_code_20200128.R*) und zum anderen ein Foto (*repo.PNG*) im Ordner "*images*" sind.   
 
 In einer zweiten Instanz werden diese Änderungen bestätigt. Zusätzlich werden die Änderungen mit einer Nachricht versehen, welche über den Inhalt der Änderung eine Auskunft geben soll. 
 
