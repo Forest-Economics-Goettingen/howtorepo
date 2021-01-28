@@ -53,14 +53,29 @@ Bei der Benennung des Projektnamen ist darauf zu achten, alphanumerische Zeichen
 <a href="#3. Upload und Bearbeitung von Inhalten">3. Upload und Bearbeitung von Inhalten</a>
 </h3>
 
-Nach der Initialisierung des Repositorys dieses als neus Verzeichnis auf dem eigenen Rechner erstellt werden, um darüber den Upload der gewünschten Inhalte zu ermöglichen. Über die Konsole des jeweiligen Betriebssystems wird zu diesem Zweck der Befehl
+Nach der Initialisierung des Repositorys kann dieses als neues Verzeichnis auf den eigenen Rechner kopiert werden, um darüber den Upload der gewünschten Inhalte zu ermöglichen. Über die Konsole des jeweiligen Betriebssystems wird zu diesem Zweck der Befehl
 
 ```
->git clone https://gitlab.gwdg.de/forest_economics_goettingen/howtorepo.git
+git clone https://gitlab.gwdg.de/forest_economics_goettingen/howtorepo.git
 ```
+verwendet. Die jeweilige URL kann über den blauen "<strong>*Clone*</strong>"-Button als HTTPS-Link (alternativ: SSH) kopiert und in der Kommandozeile eingefügt werden. Zu beachten ist dabei der Zielort, an dem die Kopie des Repository erstellt werden soll. Liegt das gewünschte Verzeichnis als lokale Kopie vor, können die benötigten Dateien in den Ordner (in diesem Fall: howtorepo) eingefügt werden. Falls in der anzufertigenden README-Datei (siehe Kapitel 4) Abbildungen (z.B. als PNG-Datei) dargestellt werden sollen, können diese in einem Ordner mit dem Namen "images" abgelegt werden, welcher ebenso in den Ordner "howtorepo" eingefügt wird. Für die Benennung von Dateien sowie Bildern gilt ebenso die Verwendung alphanumerischer Zeichen. 
+Um den Status des Upload-Prozesses ncoh einmal zu überprüfen führen wir den Befehl
 
+```
+git status
+```
+aus, welcher uns hier beispielshaft folgende Antwort liefert:
 
-Nach der Initialisierung eines Projektes kann der Upload sowie die Bearbeitung von Textdateien (z.B. R-Code oder Markdown) direkt auf der Weboberfläche im jeweiligen Repository vorgenommen werden. 
+```
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        howtorepo_code_20200128.R
+        images/
+```
 
 
 
@@ -75,6 +90,8 @@ Nach der Initialisierung eines Projektes kann der Upload sowie die Bearbeitung v
 </h3>
 
 Die README-Datei eines Projektes In GitLab gibt eine kurze Übersicht über den Inhalt des Repositorys und ist üblicherweise in Markdown geschrieben, sodass der Inhalt der Datei direkt gerendert und im unteren Verlauf der Repository dargestellt werden kann. Markdown ist eine vereinfachte Auszeichnungssprache, die ohne weitere Konvertierung leicht lesbar ist. Markdown-Dateien können beispielsweise mit R-Studio oder direkt in GitLab über den "<strong>README</strong>" bzw. "<strong>Add README</strong>"-Button erstellt werden.
+
+- cheatcheat markdown
 
 <img src="./images/repo_2.png" width="75%">
 
