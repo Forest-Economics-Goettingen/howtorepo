@@ -116,7 +116,7 @@ Die README-Datei eines Projektes In GitLab gibt eine kurze Übersicht über den 
 
 <img src="./images/repo_2.png" width="75%">
 
-Für zukünftige Archivierungsarbeiten soll die ["<strong>README_blanko.md</strong>"](https://gitlab.gwdg.de/forest_economics_goettingen/howtorepo/-/blob/master/README_blanko.md) als Vorlage dienen, welche in diesem Repository zur Verfügung steht. Eine fertige README-Datei soll folgende Bestandteile aufweisen:
+Für zukünftige Archivierungsarbeiten soll die ["<strong>README_blanko.md</strong>"](https://gitlab.gwdg.de/forest_economics_goettingen/howtorepo/-/blob/master/README_blanko.md) als Vorlage dienen, welche in diesem Repository zur Verfügung steht. Dabei gilt es zu beachten, dass der Dateiname auf <strong>README.md</strong> geändert werden muss, damit das Repository die Datei als README erkennt. Eine fertige README-Datei soll folgende Bestandteile aufweisen:
 
 - <strong>Überschrift:</strong> Name des Forschungsarbeit / Modellname und Namen der AutorInnen
 - <strong>Kurzbeschreibung:</strong> Erläuterung des Inhaltes; welche Inputs werden benötigt/genutzt, welchen Output gibt es, welchen Nutzen kann der Anwendende daraus ziehen?
