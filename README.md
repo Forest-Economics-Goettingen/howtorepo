@@ -68,7 +68,7 @@ Um die Änderungen in einem lokalen Arbeitsverzeichnis (*working directory*) in 
 
 *Quelle: https://rogerdudler.github.io/git-guide/index.de.html*
 
-In einem ersten Schritt werden die Dateien in einen Index (*staging area*) überführt. Hier kann noch einmal darüber darüber entschieden werden, welche Änderungen tatsächlich vorgenommen und welche vielleicht doch noch verworfen werden sollen. Mit dem Befehle 
+In einem ersten Schritt werden die Dateien in einen Index (*staging area*) überführt. Hier kann noch einmal darüber darüber entschieden werden, welche Änderungen tatsächlich vorgenommen und welche vielleicht doch noch verworfen werden sollen. Mit dem Befehl 
 
 ```
 git add *
