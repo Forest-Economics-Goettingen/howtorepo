@@ -18,7 +18,7 @@ Dieser Leitfaden widmet sich neben der Erläuterung der Basisfunktionalitäten w
 <a href="#3. Upload und Bearbeitung von Inhalten">3. Upload und Bearbeitung von Inhalten</a>
 </li>
 <li>
-<a href="#4. Grundstruktur der README-Datei">2. Grundstruktur der README-Datei</a>
+<a href="#4. Grundstruktur der README-Datei">4. Grundstruktur der README-Datei</a>
 </li>
 </ul>
 
@@ -60,7 +60,7 @@ Nach der Initialisierung des Repositorys kann dieses als neues Verzeichnis auf d
 ```
 git clone https://gitlab.gwdg.de/forest_economics_goettingen/howtorepo.git
 ```
-ausgeführt. Die jeweilige URL kann über den blauen <strong>Clone</strong>-Button als HTTPS-Link (alternativ: SSH) kopiert und in der Kommandozeile eingefügt werden. Zu beachten ist dabei der Zielort(!), an dem die Kopie des Repository erstellt werden soll. Liegt das gewünschte Verzeichnis als lokale Kopie vor, können die benötigten Dateien in den Ordner (in diesem Fall: howtorepo) eingefügt werden. Falls in der anzufertigenden *README*-Datei (siehe Kapitel 4) Abbildungen (z.B. als PNG-Datei) dargestellt werden sollen, können diese in einem Ordner mit dem Namen "images" abgelegt werden, welcher ebenso in den Ordner "howtorepo" eingefügt wird. Für die Benennung von Dateien sowie Bildern gilt ebenso die Verwendung alphanumerischer Zeichen. 
+ausgeführt. Die jeweilige URL kann über den blauen <strong>Clone</strong>-Button als HTTPS-Link (alternativ: SSH) kopiert und in der Kommandozeile eingefügt werden. Zu beachten ist dabei der Zielort(!), an dem die Kopie des Repository erstellt werden soll. Liegt das gewünschte Verzeichnis als lokale Kopie vor, können die benötigten Dateien in den Ordner (in diesem Fall: howtorepo) eingefügt werden. Falls in der anzufertigenden *README*-Datei (siehe Kapitel 4) Abbildungen (z.B. als PNG-Datei) dargestellt werden sollen, können diese in einem Ordner mit dem Namen "*images*" abgelegt werden, welcher ebenso in den Ordner "*howtorepo*" eingefügt wird. Für die Benennung von Dateien sowie Bildern gilt ebenso die Verwendung alphanumerischer Zeichen. 
 
 Um die Änderungen in einem lokalen Arbeitsverzeichnis (*working directory*) in GitLab zu speichern, müssen zwei "Instanzen" überwunden werden. 
 
@@ -116,9 +116,9 @@ Auf diese Weise werden die Änderungen an das entfernte Repository in GitLab ges
 
 Die README-Datei eines Projektes In GitLab gibt eine kurze Übersicht über den Inhalt des Repositorys und ist üblicherweise in Markdown geschrieben, sodass der Inhalt der Datei direkt gerendert und im unteren Verlauf der Repository dargestellt werden kann. Markdown ist eine vereinfachte Auszeichnungssprache, die ohne weitere Konvertierung leicht lesbar ist. Markdown-Dateien können beispielsweise mit R-Studio oder direkt in GitLab über den "<strong>README</strong>" bzw. "<strong>Add README</strong>"-Button erstellt werden.
 
-- cheatcheat markdown
-
 <img src="./images/repo_2.png" width="75%">
+
+GitLab bietet eine ausführliche [Anleitung] (https://about.gitlab.com/handbook/markdown-guide/) über den Umgang mit der Synthax von Markdown an, zudem sollen an dieser Stelle einige 
 
 Für zukünftige Archivierungsarbeiten soll die "<strong>README_blank.md</strong>" als Vorlage dienen, welche in diesem Repository zur Verfügung steht. Eine fertige README-Datei soll folgende Bestandteile aufweisen:
 
