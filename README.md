@@ -34,7 +34,7 @@ Um im Rahmen der Versionsverwaltung Inhalte von einer Weboberfläche (hier: GitL
 
 - [Windows](https://git-scm.com/download/win)
 
-Ist Git auf dem Rechner installiert, kann ein spezifisches Projekt aus GitLab als lokale Kopie (*clone*) gespeichert werden, um diese zu bearbeiten. Lokale Änderungen können im Anschluss wieder zentral auf GitLab hochgeladen (*push*) werden. Des Weiteren kann die lokale Kopie durch einen (*pull*) von der Weboberfläche um mögliche Änderungen durch andere ergänzt und auf den "neusten Stand" gebracht werden. Die folgende Abbildung stellt eine kurze Übersicht der wichtigsten Git-Befehle dar.
+Ist *Git* auf dem Rechner installiert, kann ein spezifisches Projekt aus GitLab als lokale Kopie (*clone*) gespeichert werden, um dieses zu bearbeiten. Lokale Änderungen können im Anschluss wieder zentral auf GitLab hochgeladen (*push*) werden. Des Weiteren kann die lokale Kopie durch einen (*pull*) von der Weboberfläche um mögliche Änderungen durch andere ergänzt und auf den "neusten Stand" gebracht werden. Die folgende Abbildung stellt eine kurze Übersicht der wichtigsten Git-Befehle dar.
 
 <img src="./images/cheat_sheet.png" width="35%">
 
@@ -46,7 +46,7 @@ Die Erstellung eines neuen Projektes über die Weboberfläche in GitLab wird in 
 
 <img src="./images/new_project.gif" width="120%">
 
-Bei der Benennung des Projektnamen ist darauf zu achten, alphanumerische Zeichen (a-z, A-Z, 0-9) sowie einen Unterstrich (_) als Sondferzeichen zu verwenden. Umlaute sowie Leerzeichen sollten vermieden werden.  
+Bei der Benennung des Projektnamen ist darauf zu achten, alphanumerische Zeichen (a-z, A-Z, 0-9) sowie  als Sondferzeichen einen Unterstrich(_) zu verwenden. Umlaute sowie Leerzeichen sollten vermieden werden.  
 
 
 <h3>
@@ -58,9 +58,9 @@ Nach der Initialisierung des Repositorys kann dieses als neues Verzeichnis auf d
 ```
 git clone https://gitlab.gwdg.de/forest_economics_goettingen/howtorepo.git
 ```
-ausgeführt. Die jeweilige URL kann über den blauen <strong>Clone</strong>-Button als HTTPS-Link (alternativ: SSH) kopiert und in der Kommandozeile eingefügt werden. Zu beachten ist dabei der Zielort, an dem die Kopie des Repository erstellt werden soll(!) Liegt das gewünschte Verzeichnis als lokale Kopie vor, können die benötigten Dateien in den Ordner (in diesem Fall: howtorepo) eingefügt werden. Falls in der anzufertigenden *README*-Datei (siehe Kapitel 4) Abbildungen (z.B. als PNG-Datei) dargestellt werden sollen, können diese in einem Ordner mit dem Namen "images" abgelegt werden, welcher ebenso in den Ordner "howtorepo" eingefügt wird. Für die Benennung von Dateien sowie Bildern gilt ebenso die Verwendung alphanumerischer Zeichen. 
+ausgeführt. Die jeweilige URL kann über den blauen <strong>Clone</strong>-Button als HTTPS-Link (alternativ: SSH) kopiert und in der Kommandozeile eingefügt werden. Zu beachten ist dabei der Zielort(!), an dem die Kopie des Repository erstellt werden soll. Liegt das gewünschte Verzeichnis als lokale Kopie vor, können die benötigten Dateien in den Ordner (in diesem Fall: howtorepo) eingefügt werden. Falls in der anzufertigenden *README*-Datei (siehe Kapitel 4) Abbildungen (z.B. als PNG-Datei) dargestellt werden sollen, können diese in einem Ordner mit dem Namen "images" abgelegt werden, welcher ebenso in den Ordner "howtorepo" eingefügt wird. Für die Benennung von Dateien sowie Bildern gilt ebenso die Verwendung alphanumerischer Zeichen. 
 
-Um die Änderungen in deinem lokalen Arbeitsverzeichnis (*working directory*) in GitLab zu speichern, müssen zwei "Instanzen" überwunden werden. 
+Um die Änderungen in einem lokalen Arbeitsverzeichnis (*working directory*) in GitLab zu speichern, müssen zwei "Instanzen" überwunden werden. 
 
 <img src="./images/workflow.PNG" width="60%">
 
@@ -69,12 +69,12 @@ In einem ersten Schritt werden die Dateien in einen Index (*staging area*) über
 ```
 git add *
 ```
-werden alle Änderungen im Verzeichnis zum Index hinzugefügt. Um den Status des Workflows zu überprüfen, führen wir den Befehl 
+werden alle Änderungen im Verzeichnis zum Index hinzugefügt. Um den Status des Workflows zu überprüfen, führen man den Befehl 
 
 ```
 git status
 ```
-aus, welcher uns hier beispielshaft die folgende Antwort liefert:
+aus, welcher hier beispielshaft die folgende Antwort liefert:
 
 ```
 On branch master
@@ -88,7 +88,7 @@ Changes to be committed:
 
 
 ```
-Wir erhalten die Informationen, dass im Hauptentwicklungspfad (*branch master*) keine Änderungen vorgemerkt sind (*No commits yet*), jedoch Änderungen durch zwei neue Dateien entstanden sind, welche zum einen ein R-Skript (howtorepo_code_20200128.R) und zum anderen ein Foto ("repo.PNG") im Ordner "images" sind.   
+Diese Antwort liefert die Information, dass im Hauptentwicklungspfad (*branch master*) noch keine Änderungen für den Upload vorgemerkt sind (*No commits yet*), jedoch Änderungen im Index durch zwei neue Dateien entstanden sind, welche zum einen ein R-Skript (howtorepo_code_20200128.R) und zum anderen ein Foto ("repo.PNG") im Ordner "images" sind.   
 
 In einer zweiten Instanz werden diese Änderungen bestätigt. Zusätzlich werden die Änderungen mit einer Nachricht versehen, welche über den Inhalt der Änderung eine Auskunft geben soll. 
 
