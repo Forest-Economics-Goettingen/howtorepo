@@ -73,12 +73,12 @@ In einem ersten Schritt werden die Dateien in einen Index (*staging area*) über
 ```
 git add *
 ```
-werden alle Änderungen im Verzeichnis zum Index hinzugefügt. Um den Status des Workflows zu überprüfen, führen man den Befehl 
+werden alle Änderungen im Verzeichnis zum Index hinzugefügt. Um den Status des Workflows zu überprüfen, führt man den Befehl 
 
 ```
 git status
 ```
-aus, welcher hier beispielshaft die folgende Antwort liefert:
+aus, welcher hier beispielhaft die folgende Antwort liefert:
 
 ```
 On branch master
