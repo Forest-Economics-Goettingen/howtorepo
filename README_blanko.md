@@ -110,7 +110,7 @@ x <- 100
 <a name="7. Literatur">7. Literatur</a>
 </h3>
 
-hioer einfügen: Literaturangaben. 
+hier einfügen: Literaturangaben. 
 
 Die Quellen sind in alphabetischer Reihenfolge aufzuführen. Das Format der Quellenangaben soll dem folgenden Beispiel entsprechen:
 
